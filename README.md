@@ -1,4 +1,4 @@
-# 💱 Conversor de Monedas - Challenge Java G7
+# Conversor de Monedas - Challenge Java G7
 
 Bienvenido a mi proyecto del **Conversor de Monedas**, desarrollado como parte de la formación **Java Orientado a Objetos** en el programa **Oracle Next Education** en colaboración con **Alura Latam**.
 
